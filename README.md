@@ -71,15 +71,6 @@ Each microservice has its own configuration in the `config` directory. Configura
 - Message broker configuration
 - Security settings
 
-## API Documentation
-
-API documentation is available via Swagger UI once the services are running:
-
-- Product Service: http://localhost:8081/swagger-ui.html
-- Order Service: http://localhost:8082/swagger-ui.html
-- User Service: http://localhost:8083/swagger-ui.html
-- Payment Service: http://localhost:8084/swagger-ui.html
-
 ## Testing
 
 The project includes comprehensive unit and integration tests. To run tests:
